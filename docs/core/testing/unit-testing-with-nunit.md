@@ -110,7 +110,7 @@ dotnet add reference ../PrimeService/PrimeService.csproj
         PrimeService.Tests.csproj
 ```
 
-*unit-testing-vb-nunit* ディレクトリ内で次のコマンドを実行します。
+*unit-testing-using-nunit* ディレクトリ内で次のコマンドを実行します。
 
 ```dotnetcli
 dotnet sln add ./PrimeService.Tests/PrimeService.Tests.csproj
